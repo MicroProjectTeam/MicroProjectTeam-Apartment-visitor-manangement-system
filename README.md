@@ -7,3 +7,8 @@ CREDENTIAL FOR ADMIN :
 Username: admin
 
 Password: Test@123
+
+#SCREENS
+
+![1](https://github.com/user-attachments/assets/e1256e67-66ba-4690-853d-dadd6f727318)
+
